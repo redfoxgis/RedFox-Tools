@@ -1,5 +1,7 @@
 # RedFox-Tools
 
+## numberPoints
+
 This tool is designed to number points sequentially within each forest stand polygon feature. 
 
 The tool adds a field called "point_ID" to the input featureclass which will contain the sequential numbering. 

@@ -1,5 +1,7 @@
 # RedFox-Tools
 
+![alt text](https://github.com/redfoxgis/RedFox-Tools/blob/master/points.png)
+
 ## numberPoints
 
 This tool is designed to number points sequentially within each forest stand polygon feature. 

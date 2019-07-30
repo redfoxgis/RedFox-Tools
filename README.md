@@ -1,4 +1,4 @@
-## RedFox-Tools
+# RedFox-Tools
 
 This tool is designed to number points sequentially within each forest stand polygon feature. 
 
@@ -8,7 +8,7 @@ The tool adds a field called "point_ID" to the input featureclass which will con
 
 This tool assumes the forest Stand ID has already been assigned to each point (e.g. via Spatial Join). 
 
-# Instructions: 
+## Instructions: 
 1) Download and unzip "number_points.zip" from the repository
 
 2) In ArcGIS, open the script tool "numberPoints" located within the "RedFoxTools" toolbox

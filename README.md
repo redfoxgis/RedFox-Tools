@@ -4,7 +4,7 @@
 
 ## numberPoints
 
-This tool is designed to number points sequentially within each forest stand polygon feature. 
+This tool is designed to number points sequentially within forest stand polygons. 
 
 * The tool adds a field called "point_ID" to the input featureclass which will contain the sequential numbering. 
 
